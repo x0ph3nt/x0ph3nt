@@ -4,18 +4,12 @@
 <h3 align="center">aka x0ph3nt</h3>
 
 <p align="center">
-Offensive Security Enthusiast | Active Directory Learner | Future OSCP
+Offensive Security Enthusiast | Active Directory Learner 
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/x0ph3nt">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%206%25-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
   <a href="https://x.com/x0ph3nt">
     <img src="https://img.shields.io/badge/X-@x0ph3nt-black?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/x0ph3nt">
-    <img src="https://img.shields.io/badge/LinkedIn-x0ph3nt-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
